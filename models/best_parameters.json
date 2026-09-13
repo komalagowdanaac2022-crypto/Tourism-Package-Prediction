@@ -1,0 +1,6 @@
+{
+    "randomforestclassifier__max_depth": 20,
+    "randomforestclassifier__min_samples_leaf": 2,
+    "randomforestclassifier__min_samples_split": 5,
+    "randomforestclassifier__n_estimators": 100
+}
